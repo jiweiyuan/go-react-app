@@ -3,6 +3,6 @@
 - [ ] React frontend
 - [ ] Login and registration
 - [ ] Authentication and authorization
-- [ ] PostgreSQL database
-- [ ] Github Actions
+- [ ] PostgresSQL database
+- [ ] GitHub Actions
 - [ ] Docker
