@@ -1,13 +1,15 @@
 # go-react-app
 
 Modern web application template using Go, Gin, React, shadcn/ui and PostgreSQL, which aims to reduce the developer's 
-cognitive load.
+cognitive load and improve productivity.
 
-## Goals
-
-Reduce the developer's cognitive load by providing a modern web application template that is easy to use and understand.
+## Philosophy
+- Keep it simple
+- Keep it easy
+- Keep it modern
 
 ## Tech stack
+
 ##### frontend: 
 - Framework: React
 - UI library: shadcn/ui
@@ -20,3 +22,13 @@ Reduce the developer's cognitive load by providing a modern web application temp
 - Gin
 - database/sql
 
+## Thanks
+
+- https://github.com/bytebase/bytebase
+- https://github.com/grafana/grafana
+- https://github.com/apache/incubator-answer
+
+## Future work
+- Desktop application using Electron
+- iOS app using SwiftUI, 
+- Android app using Kotlin/Jetpack Compose
