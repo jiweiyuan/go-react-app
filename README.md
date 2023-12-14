@@ -16,6 +16,7 @@ cognitive load and improve productivity.
 - Router: React router
 - State Management: React hooks + context
 - Network: React Query + fetch
+- Visualization: airbnb/visx
 
 ##### backend:
 - Go
